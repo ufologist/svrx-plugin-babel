@@ -25,7 +25,12 @@ transform js/json file content on the fly
 npm i @svrx/cli -g
 ```
 
-```js
+Install `svrx-plugin-babel`
+```shell
+npm i svrx-plugin-babel save-dev
+```
+
+```javascript
 // .svrxrc.js
 module.exports = {
   plugins: [
