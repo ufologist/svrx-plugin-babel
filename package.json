@@ -1,0 +1,32 @@
+{
+  "name": "svrx-plugin-babel",
+  "version": "1.0.0",
+  "description": "svrx plugin for babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "svrx",
+    "svrx-plugin",
+    "babel"
+  ],
+  "author": "Sun",
+  "license": "MIT",
+  "engines": {
+    "svrx": "^1.1.2"
+  },
+  "dependencies": {
+    "@babel/core": "^7.8.7",
+    "events": "^3.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ufologist/svrx-plugin-babel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ufologist/svrx-plugin-babel/issues"
+  },
+  "homepage": "https://github.com/ufologist/svrx-plugin-babel#readme"
+}
